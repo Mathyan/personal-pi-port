@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+web_landing_venv/
+
+# IDE-specific files
+.vscode/
+*.idea/
+
+# Environment-specific files
+.env
+
+# Compiled Python files
+*.pyc
+
+# macOS-specific files
+.DS_Store
+
+# Editor backup files
+*~
+
+# Log files
+*.log
+
+# Dependency directories
+venv/
+
